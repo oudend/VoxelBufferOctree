@@ -2,6 +2,9 @@
 Voxel octree built with 1 buffered array for optimized performance. 
 
 
+## ADD IMAGE HERE
+
+
 ## EXAMPLE
 
 ```javascript
