@@ -2,7 +2,7 @@
 Voxel octree built with 1 buffered array for optimized performance. 
 
 
-## ADD IMAGE HERE
+![alt text](https://github.com/oudend/VoxelBufferOctree/blob/1594b41ac8c2b251c46975ef73d8086e6e728b65/octree.png "visualized octree")
 
 
 ## EXAMPLE
